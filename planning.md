@@ -30,6 +30,8 @@ This knowledge is valuable because official university sources only describe cou
 | 9 | Ahmed Zaman CS112 reviews | Intro CS course reviews with workload and exam feedback | `zaman_cs112_alt.txt` |
 | 10 | Ahmed Zaman CS330 reviews | theory-heavy course reviews | `zaman_cs330_alt.txt` |
 
+
+
 ## Chunking Strategy
 
 <!-- How will you split documents into chunks?
@@ -37,11 +39,14 @@ This knowledge is valuable because official university sources only describe cou
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:**  
+One review per chunk. No fixed token or character limit.
 
-**Overlap:**
+**Overlap:**  
+None (0 overlap)
 
-**Reasoning:**
+**Reasoning:**  
+Each review already contains a complete opinion about a professor and course. It includes things like rating, tags, and feedback in one place. Splitting a review would break context and make it harder for the model to understand the full meaning. Because of this, it makes more sense to treat each review as one full chunk instead of cutting it up.
 
 ---
 
@@ -53,11 +58,18 @@ This knowledge is valuable because official university sources only describe cou
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:**  
+sentence-transformers `all-MiniLM-L6-v2`
 
-**Top-k:**
+**Top-k:**  
+4
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:**  
+In a real system, I would think about accuracy, speed, and cost. Bigger models usually understand text better, but they are slower and more expensive. Smaller models like MiniLM are fast and work well for short texts like reviews.
+
+For top-k, 4 chunks feels like a good balance. If k is too low, the system might miss useful reviews. If k is too high, it will bring in unrelated reviews and confuse the answer.
+
+If this were a production system, I would also consider using a stronger embedding model for better accuracy, but only if performance and cost were acceptable.
 
 ---
 
@@ -70,11 +82,11 @@ This knowledge is valuable because official university sources only describe cou
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Which CS professor is best for beginners? | Yutao Zhong is described as supportive, patient, and good for intro students. |
+| 2 | Which professors have the hardest projects? | CS310 and CS367 professors like Masri or Zhong are described as having difficult projects. |
+| 3 | Which professor has the easiest exams? | Yutao Zhong and Ahmed Zaman are described as having fair and straightforward exams. |
+| 4 | Which classes have heavy workload? | CS310 and CS321 are described as having heavy workload and group projects. |
+| 5 | Which professors have bad or boring lectures? | Wassim Masri and Jana Kosecka are often described as having boring or unclear lectures. |
 
 ---
 
@@ -84,9 +96,9 @@ This knowledge is valuable because official university sources only describe cou
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Some reviews are not formatted the same way, so parsing them might miss fields like tags or grades. This could affect retrieval quality.
 
-2.
+2. Some reviews mix positive and negative comments in the same text. This might confuse the model when trying to decide overall sentiment.
 
 ---
 
@@ -95,10 +107,10 @@ This knowledge is valuable because official university sources only describe cou
 <!-- Draw a diagram of your pipeline showing the five stages:
      Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
      Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
+     You can use ASCII art, Mermaid, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
----
+Documents (.txt files) → Ingestion (Python file loader) → Chunking (1 review = 1 chunk) → Embeddings (sentence-transformers) → Vector Store (ChromaDB) → Top-k Retrieval → LLM → Final Answer with citations
 
 ## AI Tool Plan
 
@@ -113,7 +125,8 @@ This knowledge is valuable because official university sources only describe cou
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
-
+I will use ChatGPT or Copilot to help write a Python script that loads all my TXT files and turns them into structured review objects. I will give it my chunking strategy so it knows each review should stay as one chunk. I will check that no review is split and all fields (professor, course, grade, tags, review text) are preserved.
 **Milestone 4 — Embedding and retrieval:**
-
+I will use AI to help set up ChromaDB and embeddings using sentence-transformers. I will provide my retrieval plan (MiniLM model and top-k = 4). I will test it by searching simple queries and checking if the right professors and reviews come back.
 **Milestone 5 — Generation and interface:**
+I will use AI to help build the prompt and query interface. I will give it the format of retrieved chunks and ask it to generate answers only using that data. I will verify it by making sure responses do not include anything outside the retrieved reviews.
