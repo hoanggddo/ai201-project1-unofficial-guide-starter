@@ -1,0 +1,92 @@
+Professor: Yutao Zhong  
+Course: CS112  
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Caring, Beginner Friendly, Accessible Outside Class, Helpful Examples  
+
+Student Feedback:
+
+Students frequently describe Professor Zhong as caring, patient, and supportive, particularly for students with little or no prior programming experience. Many reviews mention that she provides numerous examples during lectures and is willing to answer questions both during and outside of class.
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Lecture Heavy, Monotone Lectures, Reading Heavy  
+
+Student Feedback:
+
+The most common criticism concerns lecture delivery. Many students describe lectures as dry, repetitive, or boring. Several reviews note that lecture material often overlaps heavily with textbook readings and online learning materials.
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Lots of Homework, Heavy Workload, Time Management Required  
+
+Student Feedback:
+
+Students consistently report a substantial workload throughout the semester. Projects, labs, homework, and online readings require significant time commitments. Students strongly recommend starting projects early and avoiding procrastination.
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Project Heavy, Time Consuming, Hands-On Learning  
+
+Student Feedback:
+
+Projects are the most frequently discussed aspect of the course. Students report that projects require many hours to complete, with final projects being the most difficult. However, they are also seen as effective for reinforcing programming concepts. Success depends heavily on starting early.
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Clear Grading Criteria, Extra Credit, Fair Exams  
+
+Student Feedback:
+
+Students generally describe grading as fair and transparent. Exams are considered manageable with preparation, and practice questions often align closely with assessments. Extra credit opportunities are also frequently mentioned.
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Beginner Friendly, Office Hours Helpful, Steep Learning Curve  
+
+Student Feedback:
+
+For beginners, the course can feel overwhelming at first due to a steep learning curve. Office hours are highly recommended. Students with prior programming experience find the course easier but still time-consuming.
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Caring, Helpful, Supportive Instructor  
+
+Frequently mentioned strengths include a caring instructor, helpful feedback, accessibility outside class, and strong support for beginners. Students often describe Professor Zhong as one of the best CS112 instructors.
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Heavy Workload, Boring Lectures, Fast Difficulty Increase  
+
+Common concerns include boring lectures, heavy workload, and a noticeable increase in difficulty after the first few weeks. Some students also mention communication issues and time-consuming assignments.
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Time Management, Consistency Required, Project Success Strategy  
+
+Student Feedback:
+
+Students consistently emphasize success strategies such as starting projects early, completing readings regularly, attending office hours, and practicing coding outside of class. Time management is repeatedly highlighted as essential.
+
+Review:
+Rating: 4.2/5  
+Difficulty: 3/5  
+Tags: Positive Overall, Recommended, Intro CS Course  
+
+Student Feedback:
+
+Overall sentiment is strongly positive. Despite workload and lecture criticism, students recommend the course for beginners due to strong support, fairness, and structured introduction to programming concepts.

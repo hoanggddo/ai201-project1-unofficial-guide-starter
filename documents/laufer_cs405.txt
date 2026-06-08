@@ -1,0 +1,150 @@
+Professor: Alexander Laufer
+Course: CS405
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+Review 1
+
+Quality: 3.0/5
+Difficulty: 4/5
+Grade: B
+
+Student Feedback:
+He's a nice guy, but he hasn't really adapted to Canvas. You will want to read the textbook proactively to get the most out of this course. Otherwise you are basically playing roulette with your grade; you will have an A until the final exam.
+
+Tags:
+Get ready to read, Beware of pop quizzes, Lecture heavy
+
+Review 2
+
+Quality: 1.0/5
+Difficulty: 4/5
+Grade: Audit/No Grade
+
+Student Feedback:
+Very unorganized, there have been multiple occurrences of randomly created group assignments with only one day to complete them. Heavy workload and poor coordination time. Lectures provide almost no value.
+
+Tags:
+Get ready to read
+
+Review 3
+
+Quality: 1.0/5
+Difficulty: 4/5
+Grade: Not provided
+
+Student Feedback:
+Insanely disorganized class. First group project was assigned with only 3 days to complete with randomized groups and no coordination time. Dense readings and rambling lectures. Avoid if possible.
+
+Tags:
+Get ready to read, Participation matters, Group projects
+
+Review 4
+
+Quality: 1.0/5
+Difficulty: 4/5
+Grade: Not provided
+
+Student Feedback:
+Doesn't respond to emails.
+
+Tags:
+Get ready to read
+
+Review 5
+
+Quality: 2.0/5
+Difficulty: 4/5
+Grade: A+
+
+Student Feedback:
+He is a nice person, but his lectures are barely coherent. Requires heavy self-study. Grading is lenient but teaching quality is weak.
+
+Tags:
+Get ready to read, Group projects, Lots of homework
+
+Review 6
+
+Quality: 2.0/5
+Difficulty: 4/5
+Grade: A
+
+Student Feedback:
+Course grading relies heavily on group mock trial and TA-graded writing. Lectures are hard to follow and readings are dense.
+
+Tags:
+Tough grader, Get ready to read, So many papers
+
+Review 7
+
+Quality: 2.0/5
+Difficulty: 4/5
+Grade: A
+
+Student Feedback:
+Lectures are unhelpful and unengaging. Assignments are unorganized and attendance is required.
+
+Tags:
+Get ready to read
+
+Review 8
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: B+
+
+Student Feedback:
+Best option for this course at GMU. Mock trials are manageable and course is approachable. Weekly quizzes and manageable reading.
+
+Tags:
+Get ready to read, Group projects
+
+Review 9
+
+Quality: 5.0/5
+Difficulty: 1/5
+Grade: A
+
+Student Feedback:
+Chill and easy class. Mock trials are simple, quizzes are corrected in class, attendance matters.
+
+Tags:
+Participation matters, Extra credit, Group projects
+
+Review 10
+
+Quality: 5.0/5
+Difficulty: 1/5
+Grade: A
+
+Student Feedback:
+Chill class with long deadlines and easy quizzes. Attendance matters.
+
+Tags:
+Participation matters, Extra credit, Group projects
+
+Review 11
+
+Quality: 5.0/5
+Difficulty: 3/5
+Grade: Not provided
+
+Student Feedback:
+“Shrimply goated”
+
+Tags:
+Hilarious, Caring
+
+Review 12
+
+Quality: 5.0/5
+Difficulty: 3/5
+Grade: Incomplete
+
+Student Feedback:
+Solid CS405 choice. Caring professor and manageable workload overall.
+
+Tags:
+Group projects, Caring, Respected

@@ -1,0 +1,56 @@
+Professor: Xu Han  
+Course: CS211  
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+Review:
+Grade: A  
+Rating: 5/5  
+Difficulty: 2/5  
+Tags: Caring, Lecture Heavy, Accessible Outside Class  
+
+Student Feedback:
+
+Han's CS211 lectures are somewhat monotonous but concise and focused on material needed for the midterm and final exams. Compared to other computer science courses, students describe the exams as straightforward. Programming assignments are generally manageable except for the final assignment. The reading workload is heavy at the beginning of the semester but becomes lighter later.
+
+Review:
+Grade: A-  
+Rating: 3/5  
+Difficulty: 3/5   
+Tags: Get Ready to Read, Lots of Homework, Lecture Heavy  
+
+Student Feedback:
+
+Students describe Professor Han's teaching style as dry and monotonous. The course includes a significant amount of reading during the first few weeks. Some students report changing deadlines, unclear programming assignment grading criteria, lengthy lecture slides, and complex lab exercises. However, exams are generally viewed as easier than the assignments.
+
+Review:
+Grade: C-  
+Rating: 1/5  
+Difficulty: 3/5  
+Tags: Programming Assignments Difficult  
+
+Student Feedback:
+
+Some students report that programming assignments are extremely difficult and that lectures are unengaging. They also note that the assignments and exams do not closely reflect the coding examples demonstrated during lectures.
+
+Review:
+Grade: A-  
+Rating: 3/5  
+Difficulty: 4/5   
+Tags: Get Ready to Read, Lots of Homework, Caring  
+
+Student Feedback:
+
+Students indicate that Professor Han appears to care about the course and students' success, but lectures are often described as boring. Early course readings require a substantial time commitment. Some students recommend independent study because they found the pacing and progression of lectures unusual.
+
+Review:
+Grade: A-  
+Rating: 3/5  
+Difficulty: 3/5  
+Tags: Lots of Homework, Heavy Reading, Monotone Lectures  
+
+Student Feedback:
+
+Students generally describe Professor Han as pleasant but note that lectures can be difficult to follow due to a monotone speaking style. Even students with prior Java experience report difficulty keeping up with the volume of graded reading assignments. The course workload is commonly described as heavy.

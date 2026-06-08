@@ -1,0 +1,175 @@
+Professor: Yutao Zhong
+Course: CS367
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+
+Review 1
+
+Grade: A-
+Rating: 4.0/5
+Difficulty: 3/5
+
+Review:
+Lectures are a bit dry, but quizzes are easy if you pay attention. Midterm and final are similar to practice problems and study guides. Projects are the hardest part but come with clear instructions and enough time.
+
+Tags:
+Clear grading criteria, Helpful, Project Heavy
+
+
+Review 2
+
+Grade: A
+Rating: 5.0/5
+Difficulty: 2/5
+
+Review:
+Class was very well organized with clear grading criteria and schedules. Attendance is handled through PollEV and is manageable. Study guides are very helpful and exams are fair.
+
+Tags:
+Extra Credit, Clear grading criteria, Accessible outside class
+
+Review 3
+
+Grade: B+
+Rating: 5.0/5
+Difficulty: 4/5
+
+Review:
+CS367 is difficult, but the professor provides all necessary materials such as slides, videos, and recitation solutions. Lectures are somewhat dry but helpful for success if attended.
+
+Tags:
+Participation matters, Clear grading criteria, Gives good feedback
+
+Review 4
+
+Grade: A
+Rating: 5.0/5
+Difficulty: 3/5
+
+Review:
+Slides are some of the best in the CS program. Lectures are decent, though not always necessary. Exams and projects are very fair and aligned with course material.
+
+Tags:
+Amazing lectures, Clear grading criteria, Lecture heavy
+
+
+Review 5
+
+Grade: A
+Rating: 5.0/5
+Difficulty: 3/5
+
+Review:
+Lectures are boring but projects, recitations, and quizzes make up for it. Material is well structured and accessible.
+
+Tags:
+Accessible outside class, Helpful
+
+
+Review 6
+
+Grade: A
+Rating: 5.0/5
+Difficulty: 3/5
+
+Review:
+Professor explains concepts well and has interactive lectures. Projects are well designed and support learning effectively.
+
+Tags:
+Clear grading criteria, Helpful
+
+
+Review 7
+
+Grade: B
+Rating: 5.0/5
+Difficulty: 2/5
+
+Review:
+Very helpful for beginners. Slides and recitations make the material easier to understand. Exams are fair and follow study guides closely.
+
+Tags:
+Extra credit, Caring, Accessible outside class
+
+
+Review 8
+
+Grade: A
+Rating: 4.0/5
+Difficulty: 2/5
+
+Review:
+Projects are shared across sections. Lectures are somewhat dry but the professor explains concepts clearly when asked.
+
+Tags:
+Caring, Respected, Graded by few things
+
+
+Review 9
+
+Grade: A
+Rating: 4.0/5
+Difficulty: 4/5
+
+Review:
+Above average professor. Clear grading and well-paced explanations. Some formatting issues with slides but overall solid course structure.
+
+Tags:
+Clear grading criteria, Respected, Lecture heavy
+
+
+
+Review 10
+
+Grade: A+
+Rating: 4.0/5
+Difficulty: 2/5
+
+Review:
+Lectures are good but recitation videos align better with quizzes. Exams are easy with preparation. Projects can be long so start early.
+
+Tags:
+Amazing lectures, Caring, Gives good feedback
+
+
+Review 11
+
+Grade: B+
+Rating: 3.0/5
+Difficulty: 4/5
+
+Review:
+Not a bad professor but others may be better. Lectures are boring but expectations are fair. Success depends on effort.
+
+Tags:
+Accessible outside class, Clear grading criteria, Lecture heavy
+
+
+Review 12
+
+Grade: B+
+Rating: 5.0/5
+Difficulty: 3/5
+
+Review:
+Very fair exams and projects. Lectures are solid and helpful for students who attend regularly.
+
+Tags:
+Clear grading criteria, Lecture heavy, Caring
+
+
+Review 13
+
+Grade: N/A
+Rating: 5.0/5
+Difficulty: 3/5
+
+Review:
+Excellent professor with strong understanding of material. Very patient and well-liked by students.
+
+Tags:
+Caring, Respected, Helpful
+

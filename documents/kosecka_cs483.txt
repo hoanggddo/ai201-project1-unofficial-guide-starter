@@ -1,0 +1,66 @@
+Professor: Jana Kosecka
+Course: CS483
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+Review 1
+
+Quality: 2.0/5
+Difficulty: 4/5
+Grade: B
+
+Student Feedback:
+Course material is very theoretical and difficult. Students report that lectures are hard to follow and that the instructor does not always clarify concepts well. Assignments and exams do not always align closely with lecture content, requiring significant self-study.
+
+Tags:
+Lots of homework, Graded by few things, Test heavy
+
+Review 2
+
+Quality: 4.0/5
+Difficulty: 3/5
+Grade: A
+
+Student Feedback:
+Course is manageable if students focus on practice exams and midterm/final review materials. Instructor is considered lenient in grading by some students. Online format can be easier if lectures are reviewed at your own pace.
+
+Tags:
+Respected, Graded by few things, Clear grading criteria
+
+Review 3
+
+Quality: 1.0/5
+Difficulty: 3/5
+Grade: B-
+
+Student Feedback:
+Instructor is knowledgeable but struggles to teach concepts clearly. Lectures can feel monotone and occasionally confusing, which makes understanding the material more difficult. Students rely heavily on the textbook.
+
+Tags:
+Get ready to read
+
+Review 4
+
+Quality: 2.0/5
+Difficulty: 4/5
+Grade: Not provided
+
+Student Feedback:
+Course is poorly organized with outdated slides and unclear explanations during practice problems. Students advise caution when taking this professor for a core algorithms course.
+
+Tags:
+Tough grader, Get ready to read, Graded by few things
+
+Review 5
+
+Quality: 2.0/5
+Difficulty: 4/5
+Grade: B-
+
+Student Feedback:
+Grading policies are unclear and may change during the course. Communication is limited and email responses are inconsistent. Students report frustration with lack of structure.
+
+Tags:
+Tough grader, Graded by few things

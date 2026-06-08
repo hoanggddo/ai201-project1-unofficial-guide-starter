@@ -1,0 +1,172 @@
+Professor: Yutao Zhong
+Course: CS310
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+
+Review 1
+
+Course: CS310
+
+Rating: 5/5
+Difficulty: 4/5
+Grade Received: A+
+
+Student Feedback:
+
+Professor Zhong is kind and approachable. CS310 projects are somewhat difficult overall, but her instructions are clear. Exams are slightly tricky but fair. Students note that the class is not easy despite her supportive teaching style.
+
+Tags:
+Caring, Clear Grading Criteria, Fair Exams, Project Heavy
+
+
+Review 2
+
+Course: CS310
+
+Rating: 5/5
+Difficulty: 4/5
+Grade Received: Not Sure
+
+Student Feedback:
+
+CS310 has a similar structure across professors. Projects are the main difficulty, while exams effectively test understanding. Grading criteria are clear and well-defined.
+
+Tags:
+Clear Grading Criteria, Project Heavy, Exam Focused
+
+Review 3
+
+Course: CS310
+
+Rating: 5/5
+Difficulty: 3/5
+Grade Received: B
+
+Student Feedback:
+
+Attendance quizzes contribute a small portion of the grade. Projects are well-documented with clear expectations. Professor Zhong is described as very kind and organized.
+
+Tags:
+Participation Matters, Clear Instructions, Organized
+
+
+Review 4
+
+Course: CS310
+
+Rating: 5/5
+Difficulty: 3/5
+Grade Received: A+
+
+Student Feedback:
+
+Lectures are helpful and exams are straightforward. Weekly quizzes provide practice and some extra credit opportunities. Overall a very solid professor.
+
+Tags:
+Extra Credit, Clear Grading Criteria, Helpful Lectures
+
+
+Review 5
+
+Course: CS310
+
+Rating: 5/5
+Difficulty: 1/5
+Grade Received: A+
+
+Student Feedback:
+
+One of the best CS professors at GMU. Material is well-explained and easy to follow if you attend lectures or review slides.
+
+Tags:
+Amazing Lectures, Respected, Clear Explanations
+
+
+Review 6
+
+Course: CS310
+
+Rating: 5/5
+Difficulty: 3/5
+Grade Received: B+
+
+
+Student Feedback:
+
+Professor Zhong is very accessible outside class and responds quickly on Piazza and email. Students feel she genuinely cares about student success.
+
+Tags:
+Accessible Outside Class, Caring, Responsive
+
+
+Review 7
+
+Course: CS310
+
+Rating: 5/5
+Difficulty: 2/5
+Grade Received: A+
+
+
+Student Feedback:
+
+Projects are clearly structured with detailed rubrics. Exams are fair and sometimes allow cheat sheets. Students are advised to allocate enough time for Projects 3 and 4.
+
+Tags:
+Clear Rubrics, Fair Exams, Project Heavy
+
+
+Review 8
+
+Course: CS310
+
+Rating: 5/5
+Difficulty: 3/5
+Grade Received: A
+
+Attendance Required: Not Mandatory
+
+Student Feedback:
+
+Extra credit opportunities and straightforward exams make the course manageable. Professor Zhong is highly recommended.
+
+Tags:
+Extra Credit, Fair Exams, Recommended
+
+
+Review 9
+
+Course: CS310
+
+Rating: 5/5
+Difficulty: 3/5
+Grade Received: A
+
+Student Feedback:
+
+Students strongly recommend starting Project 3 early due to its increased difficulty compared to earlier assignments.
+
+Tags:
+Project Heavy, Time Management Important
+
+
+Review 10
+
+Course: CS310
+
+Rating: 4/5
+Difficulty: 3/5
+Grade Received: A
+
+Attendance Required: Not Mandatory
+
+Student Feedback:
+
+Lectures are somewhat dry but informative. Slides are well prepared and help students succeed in exams and projects.
+
+Tags:
+Lecture Heavy, Clear Slides
+

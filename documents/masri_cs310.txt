@@ -1,0 +1,126 @@
+Professor: Wassim (Wes) Masri
+Course: CS310
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+Review 1
+
+Quality: 1.0/5
+Difficulty: 1/5
+Grade: Rather not say
+
+Student Feedback:
+Avoid at all costs. Lectures are very boring and he cannot really teach the material.
+
+Tags:
+Helpful
+
+Review 2
+
+Quality: 1.0/5
+Difficulty: 3/5
+Grade: B
+
+Student Feedback:
+Worst professor ever. He does not like teaching and just reads PowerPoint slides. Does not explain code well.
+
+Tags:
+Helpful
+
+Review 3
+
+Quality: 4.0/5
+Difficulty: 1/5
+Grade: B+
+
+Student Feedback:
+Lectures are straightforward and easy to understand. Homework before quizzes gives enough practice. Very chill professor.
+
+Tags:
+Amazing lectures, Test heavy
+
+Review 4
+
+Quality: 1.0/5
+Difficulty: 5/5
+Grade: A
+
+Student Feedback:
+Did not struggle and got an A but still a bad professor due to poor teaching quality.
+
+Tags:
+Tough grader, Lecture heavy
+
+Review 5
+
+Quality: 2.0/5
+Difficulty: 3/5
+Grade: A+
+
+Student Feedback:
+Decent lecturer but boring and unclear on exam logistics. Midterm was very technical and project was vague. Grading transparency is poor.
+
+Tags:
+Tough grader, Lecture heavy, Test heavy
+
+Review 6
+
+Quality: 2.0/5
+Difficulty: 3/5
+Grade: Not sure yet
+
+Student Feedback:
+Pacing was inconsistent and exam expectations were unclear. Practice materials were provided early but stopped later.
+
+Tags:
+Helpful
+
+Review 7
+
+Quality: 4.0/5
+Difficulty: 2/5
+Grade: Not sure yet
+
+Student Feedback:
+Professor knows the material and lectures are decent. Some students struggled due to lack of preparation. Midterm was straightforward.
+
+Tags:
+Amazing lectures, Respected
+
+Review 8
+
+Quality: 2.0/5
+Difficulty: 4/5
+Grade: Not sure yet
+
+Student Feedback:
+Lectures are inconsistent and attendance tracking is irregular. Exams are mixed in difficulty with some fair and some confusing questions.
+
+Tags:
+Participation matters, Lecture heavy, Test heavy
+
+Review 9
+
+Quality: 1.0/5
+Difficulty: 4/5
+Grade: Not specified
+
+Student Feedback:
+Very poor lecturer, confusing and rambling explanations. Claims about exams were inconsistent and misleading.
+
+Tags:
+Helpful
+
+Review 10
+
+Quality: 1.0/5
+Difficulty: 4/5
+Grade: Not specified
+
+Student Feedback:
+No study material was provided for exams while other sections received guides. Midterm preparation was unfair and grading lacked transparency.
+
+Tags:
+Tough grader, Test heavy, Graded by few things

@@ -5,33 +5,30 @@
 > Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
 > Update this file before starting any stretch features.
 
----
-
 ## Domain
-
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+The chosen domain is student-generated reviews of Computer Science professors at George Mason University, focusing on real student experiences with teaching quality, workload, grading difficulty, exams, and project structure.
+
+This knowledge is valuable because official university sources only describe course objectives and syllabi, not the actual student experience. It is also difficult to find through official channels because important decision-making factors such as exam difficulty, fairness of grading, project workload, and teaching style are only shared informally across platforms like RateMyProfessor-style reviews. Students often need to manually browse large volumes of unstructured feedback to compare professors, making it an ideal use case for a retrieval-augmented generation system.
 
 ---
 
 ## Documents
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
+<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions. Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
-
----
+| 1 | Yutao Zhong CS112 reviews | Student feedback on CS112 intro programming course | `zhong_cs112.txt` |
+| 2 | Yutao Zhong CS367 reviews | Reviews covering workload, exams, and projects | `zhong_cs367.txt` |
+| 3 | Yutao Zhong CS310 reviews | Data structures course reviews focusing on exams and projects | `zhong_cs310.txt` |
+| 4 | Xu Han CS211 reviews | Object Oriented CS concepts and algorithms course | `han_c211.txt` |
+| 5 | Wassim Masri CS310 reviews | Student feedback on lectures, exams, and course structure | `masri_cs310.txt` |
+| 6 | Wassim Masri CS321 reviews | Software engineering course reviews focusing on group projects | `masri_cs321.txt` |
+| 7 | Alexander Laufer CS405 reviews | Reviews of group-project and writing-heavy CS course | `laufer_cs405.txt` |
+| 8 | Jana Kosecka CS483 reviews | Algorithm/theory-heavy course reviews | `kosecka_cs483.txt` |
+| 9 | Ahmed Zaman CS112 reviews | Intro CS course reviews with workload and exam feedback | `zaman_cs112_alt.txt` |
+| 10 | Ahmed Zaman CS330 reviews | theory-heavy course reviews | `zaman_cs330_alt.txt` |
 
 ## Chunking Strategy
 

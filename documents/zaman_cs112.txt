@@ -1,0 +1,146 @@
+Professor: Ahmed Zaman
+Course: CS112
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+Review 1
+
+Quality: 4.0/5
+Difficulty: 2/5
+Grade: A+
+Attendance: Not Mandatory
+Would Take Again: Yes
+
+Student Feedback:
+Taken F24. Lectures are very in-depth and cover material clearly, making concepts easy to understand. Projects and exams are considered very fair. Exams restrict tools (text editor only, no imports), but overall assessments align with taught material.
+
+Tags:
+Amazing lectures, Lecture heavy, Helpful
+
+Review 2
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: A
+Attendance: Not Mandatory
+Would Take Again: Yes
+
+Student Feedback:
+Course is relatively simple, but students with no coding experience may struggle at first. ZyBooks is essential for learning. Labs are useful practice. Instructor is nice, but lectures alone are not enough to fully learn the material.
+
+Tags:
+Clear grading criteria, Lecture heavy, Test heavy
+
+Review 3
+
+Quality: 2.0/5
+Difficulty: 3/5
+Grade: A
+Attendance: Not Mandatory
+Would Take Again: Not mentioned
+
+Student Feedback:
+Student felt lectures were not effective for learning programming. ZyBooks and labs were the primary learning tools. TAs were helpful. Exams included some point recovery.
+
+Tags:
+Get ready to read, Helpful
+
+Review 4
+
+Quality: 5.0/5
+Difficulty: 1/5
+Grade: A
+Attendance: Not Mandatory
+Would Take Again: Yes
+
+Student Feedback:
+Exams are straightforward and manageable for students who keep up with material. Programming assignments become harder later in the semester, so early preparation is important. ZyBooks is heavily recommended for success.
+
+Tags:
+Amazing lectures, Clear grading criteria, Helpful
+
+Review 5
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: A+
+Attendance: Not Mandatory
+Would Take Again: Yes
+
+Student Feedback:
+Lectures are well organized and easy to follow. ZyBooks readings and activities reinforce learning. Programming assignments are time-consuming but effective for understanding Python concepts. Exams are fair.
+
+Tags:
+Amazing lectures, Clear grading criteria, Respected
+
+Review 6
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: C+
+Attendance: Not Mandatory
+Would Take Again: Yes
+
+Student Feedback:
+Instructor is very supportive and gives exam and assignment corrections when appropriate. Students are strongly encouraged to use ZyBooks and keep up weekly with material. Cheating is strongly discouraged.
+
+Tags:
+Helpful
+
+Review 7
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: A+
+Attendance: Not Mandatory
+Would Take Again: Yes
+
+Student Feedback:
+Lectures are very clear and structured. ZyBooks is the main learning tool along with lectures. Exams are considered fair and reflect course content. Programming assignments require time but are manageable.
+
+Tags:
+Amazing lectures, Clear grading criteria
+
+Review 8
+
+Quality: 3.0/5
+Difficulty: 3/5
+Grade: Not provided
+Attendance: Not Mandatory
+Would Take Again: Not provided
+
+Student Feedback:
+No meaningful review content provided.
+
+Tags:
+Not provided
+
+Review 9
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: A+
+Attendance: Not Mandatory
+Would Take Again: Yes
+
+Student Feedback:
+Instructor explains concepts very clearly and uses ZyBooks effectively as a learning supplement. Exams and homework are reasonable. Overall strong teaching quality.
+
+Tags:
+Amazing lectures, Clear grading criteria
+
+Review 10
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: B+
+Attendance: Not Mandatory
+Would Take Again: Yes
+
+Student Feedback:
+Instructor is helpful and communicates well. Lectures are aligned with ZyBooks content. Students are encouraged to use office hours and ask questions when needed.
+
+Tags:
+Get ready to read, Clear grading criteria, Caring

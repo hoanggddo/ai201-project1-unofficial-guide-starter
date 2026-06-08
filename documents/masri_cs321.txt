@@ -1,0 +1,126 @@
+Professor: Wassim (Wes) Masri
+Course: CS321
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+Review 1
+
+Quality: 4.0/5
+Difficulty: 5/5
+Grade: B
+
+Student Feedback:
+Quality is great and he clearly knows the material, but grading is very difficult. Quizzes sometimes include material not directly covered in class. Getting an A requires significant time investment.
+
+Tags:
+Helpful
+
+Review 2
+
+Quality: 5.0/5
+Difficulty: 1/5
+Grade: Not provided
+
+Student Feedback:
+Professor is a G.
+
+Tags:
+Helpful
+
+Review 3
+
+Quality: 5.0/5
+Difficulty: 1/5
+Grade: A+
+
+Student Feedback:
+Very easy class if you pay attention. Lectures are useful and help you learn software engineering concepts. Engagement in class helps with quizzes.
+
+Tags:
+Group projects, Hilarious, Caring
+
+Review 4
+
+Quality: 4.0/5
+Difficulty: 3/5
+Grade: Not provided
+
+Student Feedback:
+Deliverables and quizzes make up most of the grade. Instructor is somewhat unorganized and frequently updates deadlines or quiz dates on short notice.
+
+Tags:
+Group projects
+
+Review 5
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: B+
+
+Student Feedback:
+Clear and concise lectures. Instructor explains everything needed for success and provides useful additional topics. Learned a lot in a short course format.
+
+Tags:
+Group projects, Caring, Respected
+
+Review 6
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: A
+
+Student Feedback:
+Chill and passionate professor. Quizzes and deliverables can be unclear but manageable with effort. Group project depends heavily on teammates.
+
+Tags:
+Group projects, Lecture heavy
+
+Review 7
+
+Quality: 4.0/5
+Difficulty: 4/5
+Grade: A+
+
+Student Feedback:
+Mixed experience. Easy to get A’s on projects if effort is shown, but quizzes are very difficult. Instructions sometimes do not match syllabus clearly.
+
+Tags:
+Group projects, Graded by few things
+
+Review 8
+
+Quality: 5.0/5
+Difficulty: 3/5
+Grade: A
+
+Student Feedback:
+Professor is passionate and helpful. Lenient grading on deliverables if effort is shown. Group project success depends on random team assignment.
+
+Tags:
+Group projects, Helpful
+
+Review 9
+
+Quality: 3.0/5
+Difficulty: 2/5
+Grade: A
+
+Student Feedback:
+Decent professor overall. Passionate in lectures and fair grading. Quizzes are important and require preparation.
+
+Tags:
+Group projects
+
+Review 10
+
+Quality: 3.0/5
+Difficulty: 4/5
+Grade: A
+
+Student Feedback:
+Quizzes are very difficult but grading scheme is forgiving. Large group project takes significant time. Lectures are boring but informative.
+
+Tags:
+Helpful

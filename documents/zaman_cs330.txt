@@ -1,0 +1,174 @@
+Professor: Ahmed Zaman
+Course: CS330
+Department: Computer Science
+University: George Mason University
+Source: Rate My Professors
+Document Type: Student Reviews
+
+Review 1
+
+Quality: 5.0/5
+Difficulty: 3/5
+Grade: A
+
+Student Feedback:
+Instructor makes CS330 concepts easier to understand and encourages office hours for clarification. Students report that seeking help leads to strong performance in the course.
+
+Tags:
+Gives good feedback, Lots of homework, Test heavy
+
+Review 2
+
+Quality: 5.0/5
+Difficulty: 3/5
+Grade: A-
+
+Student Feedback:
+Lectures help simplify otherwise unintuitive material. Quizzes are moderately difficult, but exams closely match practice exams.
+
+Tags:
+Helpful
+
+Review 3
+
+Quality: 5.0/5
+Difficulty: 4/5
+Grade: A+
+
+Student Feedback:
+Lectures are fast-paced and dense but effective. Instructor is patient with student questions and explains complex ideas clearly. Exams are fair and aligned with quizzes and homework.
+
+Tags:
+Amazing lectures, Lecture heavy, Helpful
+
+Review 4
+
+Quality: 5.0/5
+Difficulty: 3/5
+Grade: Not sure yet
+
+Student Feedback:
+Instructor is passionate and explains material by breaking complex problems into simpler steps. Office hours are highly recommended for success.
+
+Tags:
+Participation matters, Amazing lectures, Lecture heavy
+
+Review 5
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: A
+
+Student Feedback:
+Weekly quizzes and homework are manageable. Exams closely resemble provided sample exams. Students who stay consistent perform well.
+
+Tags:
+Clear grading criteria, Gives good feedback
+
+Review 6
+
+Quality: 1.0/5
+Difficulty: 3/5
+Grade: Not sure yet
+
+Student Feedback:
+Student claims issues with course integrity during exams and criticism of administration of the class.
+
+Tags:
+Not provided
+
+Review 7
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: A+
+
+Student Feedback:
+Lectures are clear and structured. Weekly quizzes and homework are short and manageable. Exams are very fair and aligned with practice materials.
+
+Tags:
+Amazing lectures, Lecture heavy
+
+Review 8
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: B+
+
+Student Feedback:
+Instructor simplifies complex material effectively. Exams are fair and often easier than homework. Participation in lectures improves understanding significantly.
+
+Tags:
+Amazing lectures, Clear grading criteria, Accessible outside class
+
+Review 9
+
+Quality: 5.0/5
+Difficulty: 2/5
+Grade: A-
+
+Student Feedback:
+Homework is a major portion of the grade and requires careful effort. Lectures are handwritten and sometimes harder to follow, but exams align closely with quizzes and practice problems.
+
+Tags:
+Amazing lectures, Caring, Graded by few things
+
+Review 10
+
+Quality: 4.0/5
+Difficulty: 2/5
+Grade: A+
+
+Student Feedback:
+Lectures include practice problems and explanations of course material. Homework and quizzes are manageable. Exams are very similar to assignments.
+
+Tags:
+Amazing lectures, Caring, Online Savvy
+
+Review 11
+
+Quality: 5.0/5
+Difficulty: 3/5
+Grade: A
+
+Student Feedback:
+Instructor explains abstract concepts clearly and is very patient with student questions. Students recommend attending lectures for full understanding.
+
+Tags:
+Get ready to read, Amazing lectures, Clear grading criteria
+
+Review 12
+
+Quality: 3.0/5
+Difficulty: 2/5
+Grade: A+
+
+Student Feedback:
+Lectures are difficult to read or follow for some students, but textbook and independent study are sufficient for success. Exams are easy and quizzes are light.
+
+Tags:
+Get ready to read, Lecture heavy
+
+Review 13
+
+Quality: 5.0/5
+Difficulty: 3/5
+Grade: B
+
+Student Feedback:
+Course is challenging but well taught. Instructor makes material digestible and encourages consistent attendance. Exams and homework are fair and predictable.
+
+Tags:
+Respected, Lecture heavy, Test heavy
+
+Review 14
+
+Quality: 5.0/5
+Difficulty: 3/5
+Grade: B
+
+Student Feedback:
+Course is difficult but structured in a way that supports understanding. Students benefit from attending lectures regularly and completing weekly assignments.
+
+Tags:
+Lecture heavy, Test heavy
