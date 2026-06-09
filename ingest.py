@@ -2,6 +2,7 @@ import os
 import re
 import json
 
+
 def parse_files(data_folder="documents"):
     chunks = []
 
@@ -21,22 +22,37 @@ def parse_files(data_folder="documents"):
         professor = professor_match.group(1).strip() if professor_match else "Unknown"
         course = course_match.group(1).strip() if course_match else "Unknown"
 
-        reviews = re.split(r"Review\s+\d+", content)
+        # FIX: split once outside the loop, keep delimiters with a capture group
+        parts = re.split(r"(Review\s+\d+)", content)
 
-        for review in reviews:
-            review = review.strip()
+        current_review_id = None
 
-            if len(review) < 50:
+        for part in parts:
+            part = part.strip()
+
+            # Capture review header (e.g., "Review 1")
+            if re.match(r"Review\s+\d+", part):
+                current_review_id = part
+                continue
+
+            # Skip empty or tiny chunks
+            if len(part) < 50:
+                continue
+
+            # Skip filler text
+            if "No meaningful review content provided" in part:
                 continue
 
             chunks.append({
                 "professor": professor,
                 "course": course,
-                "text": review,
+                "review_id": current_review_id,
+                "text": f"Professor: {professor}\nCourse: {course}\nReview: {current_review_id}\n\n{part}",
                 "source": filename
             })
 
     return chunks
+
 
 if __name__ == "__main__":
     chunks = parse_files()
@@ -46,8 +62,9 @@ if __name__ == "__main__":
 
     print(f"Saved {len(chunks)} chunks")
 
-    print("\nFirst chunk:\n")
-    print(chunks[0]["professor"])
-    print(chunks[0]["course"])
-    print(chunks[0]["source"])
-    print(chunks[0]["text"][:500])
+    if chunks:
+        print("\nFirst chunk:\n")
+        print(chunks[0]["professor"])
+        print(chunks[0]["course"])
+        print(chunks[0]["source"])
+        print(chunks[0]["text"][:500])

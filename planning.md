@@ -83,9 +83,9 @@ If this were a production system, I would also consider using a stronger embeddi
 | # | Question | Expected answer |
 |---|----------|-----------------|
 | 1 | Which CS professor is best for beginners? | Yutao Zhong is described as supportive, patient, and good for intro students. |
-| 2 | Which professors have the hardest projects? | CS310 and CS367 professors like Masri or Zhong are described as having difficult projects. |
+| 2 | Which professors have the hardest projects? | CS310 and CS483 professors like Masri or Kosceka are described as having difficult projects. |
 | 3 | Which professor has the easiest exams? | Yutao Zhong and Ahmed Zaman are described as having fair and straightforward exams. |
-| 4 | Which classes have heavy workload? | CS310 and CS321 are described as having heavy workload and group projects. |
+| 4 | Which classes have heavy workload? | CS405 and CS211 are described as having heavy workload and group projects. |
 | 5 | Which professors have bad or boring lectures? | Wassim Masri and Jana Kosecka are often described as having boring or unclear lectures. |
 
 ---
