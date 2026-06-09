@@ -1,0 +1,566 @@
+[
+  {
+    "professor": "Xu Han",
+    "course": "CS211",
+    "text": "Professor: Xu Han  \nCourse: CS211  \nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews\n\nReview:\nGrade: A  \nRating: 5/5  \nDifficulty: 2/5  \nTags: Caring, Lecture Heavy, Accessible Outside Class  \n\nStudent Feedback:\n\nHan's CS211 lectures are somewhat monotonous but concise and focused on material needed for the midterm and final exams. Compared to other computer science courses, students describe the exams as straightforward. Programming assignments are generally manageable except for the final assignment. The reading workload is heavy at the beginning of the semester but becomes lighter later.\n\nReview:\nGrade: A-  \nRating: 3/5  \nDifficulty: 3/5   \nTags: Get Ready to Read, Lots of Homework, Lecture Heavy  \n\nStudent Feedback:\n\nStudents describe Professor Han's teaching style as dry and monotonous. The course includes a significant amount of reading during the first few weeks. Some students report changing deadlines, unclear programming assignment grading criteria, lengthy lecture slides, and complex lab exercises. However, exams are generally viewed as easier than the assignments.\n\nReview:\nGrade: C-  \nRating: 1/5  \nDifficulty: 3/5  \nTags: Programming Assignments Difficult  \n\nStudent Feedback:\n\nSome students report that programming assignments are extremely difficult and that lectures are unengaging. They also note that the assignments and exams do not closely reflect the coding examples demonstrated during lectures.\n\nReview:\nGrade: A-  \nRating: 3/5  \nDifficulty: 4/5   \nTags: Get Ready to Read, Lots of Homework, Caring  \n\nStudent Feedback:\n\nStudents indicate that Professor Han appears to care about the course and students' success, but lectures are often described as boring. Early course readings require a substantial time commitment. Some students recommend independent study because they found the pacing and progression of lectures unusual.\n\nReview:\nGrade: A-  \nRating: 3/5  \nDifficulty: 3/5  \nTags: Lots of Homework, Heavy Reading, Monotone Lectures  \n\nStudent Feedback:\n\nStudents generally describe Professor Han as pleasant but note that lectures can be difficult to follow due to a monotone speaking style. Even students with prior Java experience report difficulty keeping up with the volume of graded reading assignments. The course workload is commonly described as heavy.",
+    "source": "han_cs211.txt"
+  },
+  {
+    "professor": "Jana Kosecka",
+    "course": "CS483",
+    "text": "Professor: Jana Kosecka\nCourse: CS483\nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews",
+    "source": "kosecka_cs483.txt"
+  },
+  {
+    "professor": "Jana Kosecka",
+    "course": "CS483",
+    "text": "Quality: 2.0/5\nDifficulty: 4/5\nGrade: B\n\nStudent Feedback:\nCourse material is very theoretical and difficult. Students report that lectures are hard to follow and that the instructor does not always clarify concepts well. Assignments and exams do not always align closely with lecture content, requiring significant self-study.\n\nTags:\nLots of homework, Graded by few things, Test heavy",
+    "source": "kosecka_cs483.txt"
+  },
+  {
+    "professor": "Jana Kosecka",
+    "course": "CS483",
+    "text": "Quality: 4.0/5\nDifficulty: 3/5\nGrade: A\n\nStudent Feedback:\nCourse is manageable if students focus on practice exams and midterm/final review materials. Instructor is considered lenient in grading by some students. Online format can be easier if lectures are reviewed at your own pace.\n\nTags:\nRespected, Graded by few things, Clear grading criteria",
+    "source": "kosecka_cs483.txt"
+  },
+  {
+    "professor": "Jana Kosecka",
+    "course": "CS483",
+    "text": "Quality: 1.0/5\nDifficulty: 3/5\nGrade: B-\n\nStudent Feedback:\nInstructor is knowledgeable but struggles to teach concepts clearly. Lectures can feel monotone and occasionally confusing, which makes understanding the material more difficult. Students rely heavily on the textbook.\n\nTags:\nGet ready to read",
+    "source": "kosecka_cs483.txt"
+  },
+  {
+    "professor": "Jana Kosecka",
+    "course": "CS483",
+    "text": "Quality: 2.0/5\nDifficulty: 4/5\nGrade: Not provided\n\nStudent Feedback:\nCourse is poorly organized with outdated slides and unclear explanations during practice problems. Students advise caution when taking this professor for a core algorithms course.\n\nTags:\nTough grader, Get ready to read, Graded by few things",
+    "source": "kosecka_cs483.txt"
+  },
+  {
+    "professor": "Jana Kosecka",
+    "course": "CS483",
+    "text": "Quality: 2.0/5\nDifficulty: 4/5\nGrade: B-\n\nStudent Feedback:\nGrading policies are unclear and may change during the course. Communication is limited and email responses are inconsistent. Students report frustration with lack of structure.\n\nTags:\nTough grader, Graded by few things",
+    "source": "kosecka_cs483.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Professor: Alexander Laufer\nCourse: CS405\nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 3.0/5\nDifficulty: 4/5\nGrade: B\n\nStudent Feedback:\nHe's a nice guy, but he hasn't really adapted to Canvas. You will want to read the textbook proactively to get the most out of this course. Otherwise you are basically playing roulette with your grade; you will have an A until the final exam.\n\nTags:\nGet ready to read, Beware of pop quizzes, Lecture heavy",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 1.0/5\nDifficulty: 4/5\nGrade: Audit/No Grade\n\nStudent Feedback:\nVery unorganized, there have been multiple occurrences of randomly created group assignments with only one day to complete them. Heavy workload and poor coordination time. Lectures provide almost no value.\n\nTags:\nGet ready to read",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 1.0/5\nDifficulty: 4/5\nGrade: Not provided\n\nStudent Feedback:\nInsanely disorganized class. First group project was assigned with only 3 days to complete with randomized groups and no coordination time. Dense readings and rambling lectures. Avoid if possible.\n\nTags:\nGet ready to read, Participation matters, Group projects",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 1.0/5\nDifficulty: 4/5\nGrade: Not provided\n\nStudent Feedback:\nDoesn't respond to emails.\n\nTags:\nGet ready to read",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 2.0/5\nDifficulty: 4/5\nGrade: A+\n\nStudent Feedback:\nHe is a nice person, but his lectures are barely coherent. Requires heavy self-study. Grading is lenient but teaching quality is weak.\n\nTags:\nGet ready to read, Group projects, Lots of homework",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 2.0/5\nDifficulty: 4/5\nGrade: A\n\nStudent Feedback:\nCourse grading relies heavily on group mock trial and TA-graded writing. Lectures are hard to follow and readings are dense.\n\nTags:\nTough grader, Get ready to read, So many papers",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 2.0/5\nDifficulty: 4/5\nGrade: A\n\nStudent Feedback:\nLectures are unhelpful and unengaging. Assignments are unorganized and attendance is required.\n\nTags:\nGet ready to read",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: B+\n\nStudent Feedback:\nBest option for this course at GMU. Mock trials are manageable and course is approachable. Weekly quizzes and manageable reading.\n\nTags:\nGet ready to read, Group projects",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 5.0/5\nDifficulty: 1/5\nGrade: A\n\nStudent Feedback:\nChill and easy class. Mock trials are simple, quizzes are corrected in class, attendance matters.\n\nTags:\nParticipation matters, Extra credit, Group projects",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 5.0/5\nDifficulty: 1/5\nGrade: A\n\nStudent Feedback:\nChill class with long deadlines and easy quizzes. Attendance matters.\n\nTags:\nParticipation matters, Extra credit, Group projects",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 5.0/5\nDifficulty: 3/5\nGrade: Not provided\n\nStudent Feedback:\n\u201cShrimply goated\u201d\n\nTags:\nHilarious, Caring",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Alexander Laufer",
+    "course": "CS405",
+    "text": "Quality: 5.0/5\nDifficulty: 3/5\nGrade: Incomplete\n\nStudent Feedback:\nSolid CS405 choice. Caring professor and manageable workload overall.\n\nTags:\nGroup projects, Caring, Respected",
+    "source": "laufer_cs405.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Professor: Wassim (Wes) Masri\nCourse: CS310\nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 1.0/5\nDifficulty: 1/5\nGrade: Rather not say\n\nStudent Feedback:\nAvoid at all costs. Lectures are very boring and he cannot really teach the material.\n\nTags:\nHelpful",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 1.0/5\nDifficulty: 3/5\nGrade: B\n\nStudent Feedback:\nWorst professor ever. He does not like teaching and just reads PowerPoint slides. Does not explain code well.\n\nTags:\nHelpful",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 4.0/5\nDifficulty: 1/5\nGrade: B+\n\nStudent Feedback:\nLectures are straightforward and easy to understand. Homework before quizzes gives enough practice. Very chill professor.\n\nTags:\nAmazing lectures, Test heavy",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 1.0/5\nDifficulty: 5/5\nGrade: A\n\nStudent Feedback:\nDid not struggle and got an A but still a bad professor due to poor teaching quality.\n\nTags:\nTough grader, Lecture heavy",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 2.0/5\nDifficulty: 3/5\nGrade: A+\n\nStudent Feedback:\nDecent lecturer but boring and unclear on exam logistics. Midterm was very technical and project was vague. Grading transparency is poor.\n\nTags:\nTough grader, Lecture heavy, Test heavy",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 2.0/5\nDifficulty: 3/5\nGrade: Not sure yet\n\nStudent Feedback:\nPacing was inconsistent and exam expectations were unclear. Practice materials were provided early but stopped later.\n\nTags:\nHelpful",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 4.0/5\nDifficulty: 2/5\nGrade: Not sure yet\n\nStudent Feedback:\nProfessor knows the material and lectures are decent. Some students struggled due to lack of preparation. Midterm was straightforward.\n\nTags:\nAmazing lectures, Respected",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 2.0/5\nDifficulty: 4/5\nGrade: Not sure yet\n\nStudent Feedback:\nLectures are inconsistent and attendance tracking is irregular. Exams are mixed in difficulty with some fair and some confusing questions.\n\nTags:\nParticipation matters, Lecture heavy, Test heavy",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 1.0/5\nDifficulty: 4/5\nGrade: Not specified\n\nStudent Feedback:\nVery poor lecturer, confusing and rambling explanations. Claims about exams were inconsistent and misleading.\n\nTags:\nHelpful",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS310",
+    "text": "Quality: 1.0/5\nDifficulty: 4/5\nGrade: Not specified\n\nStudent Feedback:\nNo study material was provided for exams while other sections received guides. Midterm preparation was unfair and grading lacked transparency.\n\nTags:\nTough grader, Test heavy, Graded by few things",
+    "source": "masri_cs310.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Professor: Wassim (Wes) Masri\nCourse: CS321\nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 4.0/5\nDifficulty: 5/5\nGrade: B\n\nStudent Feedback:\nQuality is great and he clearly knows the material, but grading is very difficult. Quizzes sometimes include material not directly covered in class. Getting an A requires significant time investment.\n\nTags:\nHelpful",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 5.0/5\nDifficulty: 1/5\nGrade: Not provided\n\nStudent Feedback:\nProfessor is a G.\n\nTags:\nHelpful",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 5.0/5\nDifficulty: 1/5\nGrade: A+\n\nStudent Feedback:\nVery easy class if you pay attention. Lectures are useful and help you learn software engineering concepts. Engagement in class helps with quizzes.\n\nTags:\nGroup projects, Hilarious, Caring",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 4.0/5\nDifficulty: 3/5\nGrade: Not provided\n\nStudent Feedback:\nDeliverables and quizzes make up most of the grade. Instructor is somewhat unorganized and frequently updates deadlines or quiz dates on short notice.\n\nTags:\nGroup projects",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: B+\n\nStudent Feedback:\nClear and concise lectures. Instructor explains everything needed for success and provides useful additional topics. Learned a lot in a short course format.\n\nTags:\nGroup projects, Caring, Respected",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: A\n\nStudent Feedback:\nChill and passionate professor. Quizzes and deliverables can be unclear but manageable with effort. Group project depends heavily on teammates.\n\nTags:\nGroup projects, Lecture heavy",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 4.0/5\nDifficulty: 4/5\nGrade: A+\n\nStudent Feedback:\nMixed experience. Easy to get A\u2019s on projects if effort is shown, but quizzes are very difficult. Instructions sometimes do not match syllabus clearly.\n\nTags:\nGroup projects, Graded by few things",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 5.0/5\nDifficulty: 3/5\nGrade: A\n\nStudent Feedback:\nProfessor is passionate and helpful. Lenient grading on deliverables if effort is shown. Group project success depends on random team assignment.\n\nTags:\nGroup projects, Helpful",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 3.0/5\nDifficulty: 2/5\nGrade: A\n\nStudent Feedback:\nDecent professor overall. Passionate in lectures and fair grading. Quizzes are important and require preparation.\n\nTags:\nGroup projects",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Wassim (Wes) Masri",
+    "course": "CS321",
+    "text": "Quality: 3.0/5\nDifficulty: 4/5\nGrade: A\n\nStudent Feedback:\nQuizzes are very difficult but grading scheme is forgiving. Large group project takes significant time. Lectures are boring but informative.\n\nTags:\nHelpful",
+    "source": "masri_cs321.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Professor: Ahmed Zaman\nCourse: CS112\nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 4.0/5\nDifficulty: 2/5\nGrade: A+\nAttendance: Not Mandatory\nWould Take Again: Yes\n\nStudent Feedback:\nTaken F24. Lectures are very in-depth and cover material clearly, making concepts easy to understand. Projects and exams are considered very fair. Exams restrict tools (text editor only, no imports), but overall assessments align with taught material.\n\nTags:\nAmazing lectures, Lecture heavy, Helpful",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: A\nAttendance: Not Mandatory\nWould Take Again: Yes\n\nStudent Feedback:\nCourse is relatively simple, but students with no coding experience may struggle at first. ZyBooks is essential for learning. Labs are useful practice. Instructor is nice, but lectures alone are not enough to fully learn the material.\n\nTags:\nClear grading criteria, Lecture heavy, Test heavy",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 2.0/5\nDifficulty: 3/5\nGrade: A\nAttendance: Not Mandatory\nWould Take Again: Not mentioned\n\nStudent Feedback:\nStudent felt lectures were not effective for learning programming. ZyBooks and labs were the primary learning tools. TAs were helpful. Exams included some point recovery.\n\nTags:\nGet ready to read, Helpful",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 5.0/5\nDifficulty: 1/5\nGrade: A\nAttendance: Not Mandatory\nWould Take Again: Yes\n\nStudent Feedback:\nExams are straightforward and manageable for students who keep up with material. Programming assignments become harder later in the semester, so early preparation is important. ZyBooks is heavily recommended for success.\n\nTags:\nAmazing lectures, Clear grading criteria, Helpful",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: A+\nAttendance: Not Mandatory\nWould Take Again: Yes\n\nStudent Feedback:\nLectures are well organized and easy to follow. ZyBooks readings and activities reinforce learning. Programming assignments are time-consuming but effective for understanding Python concepts. Exams are fair.\n\nTags:\nAmazing lectures, Clear grading criteria, Respected",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: C+\nAttendance: Not Mandatory\nWould Take Again: Yes\n\nStudent Feedback:\nInstructor is very supportive and gives exam and assignment corrections when appropriate. Students are strongly encouraged to use ZyBooks and keep up weekly with material. Cheating is strongly discouraged.\n\nTags:\nHelpful",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: A+\nAttendance: Not Mandatory\nWould Take Again: Yes\n\nStudent Feedback:\nLectures are very clear and structured. ZyBooks is the main learning tool along with lectures. Exams are considered fair and reflect course content. Programming assignments require time but are manageable.\n\nTags:\nAmazing lectures, Clear grading criteria",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 3.0/5\nDifficulty: 3/5\nGrade: Not provided\nAttendance: Not Mandatory\nWould Take Again: Not provided\n\nStudent Feedback:\nNo meaningful review content provided.\n\nTags:\nNot provided",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: A+\nAttendance: Not Mandatory\nWould Take Again: Yes\n\nStudent Feedback:\nInstructor explains concepts very clearly and uses ZyBooks effectively as a learning supplement. Exams and homework are reasonable. Overall strong teaching quality.\n\nTags:\nAmazing lectures, Clear grading criteria",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS112",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: B+\nAttendance: Not Mandatory\nWould Take Again: Yes\n\nStudent Feedback:\nInstructor is helpful and communicates well. Lectures are aligned with ZyBooks content. Students are encouraged to use office hours and ask questions when needed.\n\nTags:\nGet ready to read, Clear grading criteria, Caring",
+    "source": "zaman_cs112.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Professor: Ahmed Zaman\nCourse: CS330\nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 3/5\nGrade: A\n\nStudent Feedback:\nInstructor makes CS330 concepts easier to understand and encourages office hours for clarification. Students report that seeking help leads to strong performance in the course.\n\nTags:\nGives good feedback, Lots of homework, Test heavy",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 3/5\nGrade: A-\n\nStudent Feedback:\nLectures help simplify otherwise unintuitive material. Quizzes are moderately difficult, but exams closely match practice exams.\n\nTags:\nHelpful",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 4/5\nGrade: A+\n\nStudent Feedback:\nLectures are fast-paced and dense but effective. Instructor is patient with student questions and explains complex ideas clearly. Exams are fair and aligned with quizzes and homework.\n\nTags:\nAmazing lectures, Lecture heavy, Helpful",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 3/5\nGrade: Not sure yet\n\nStudent Feedback:\nInstructor is passionate and explains material by breaking complex problems into simpler steps. Office hours are highly recommended for success.\n\nTags:\nParticipation matters, Amazing lectures, Lecture heavy",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: A\n\nStudent Feedback:\nWeekly quizzes and homework are manageable. Exams closely resemble provided sample exams. Students who stay consistent perform well.\n\nTags:\nClear grading criteria, Gives good feedback",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 1.0/5\nDifficulty: 3/5\nGrade: Not sure yet\n\nStudent Feedback:\nStudent claims issues with course integrity during exams and criticism of administration of the class.\n\nTags:\nNot provided",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: A+\n\nStudent Feedback:\nLectures are clear and structured. Weekly quizzes and homework are short and manageable. Exams are very fair and aligned with practice materials.\n\nTags:\nAmazing lectures, Lecture heavy",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: B+\n\nStudent Feedback:\nInstructor simplifies complex material effectively. Exams are fair and often easier than homework. Participation in lectures improves understanding significantly.\n\nTags:\nAmazing lectures, Clear grading criteria, Accessible outside class",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 2/5\nGrade: A-\n\nStudent Feedback:\nHomework is a major portion of the grade and requires careful effort. Lectures are handwritten and sometimes harder to follow, but exams align closely with quizzes and practice problems.\n\nTags:\nAmazing lectures, Caring, Graded by few things",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 4.0/5\nDifficulty: 2/5\nGrade: A+\n\nStudent Feedback:\nLectures include practice problems and explanations of course material. Homework and quizzes are manageable. Exams are very similar to assignments.\n\nTags:\nAmazing lectures, Caring, Online Savvy",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 3/5\nGrade: A\n\nStudent Feedback:\nInstructor explains abstract concepts clearly and is very patient with student questions. Students recommend attending lectures for full understanding.\n\nTags:\nGet ready to read, Amazing lectures, Clear grading criteria",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 3.0/5\nDifficulty: 2/5\nGrade: A+\n\nStudent Feedback:\nLectures are difficult to read or follow for some students, but textbook and independent study are sufficient for success. Exams are easy and quizzes are light.\n\nTags:\nGet ready to read, Lecture heavy",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 3/5\nGrade: B\n\nStudent Feedback:\nCourse is challenging but well taught. Instructor makes material digestible and encourages consistent attendance. Exams and homework are fair and predictable.\n\nTags:\nRespected, Lecture heavy, Test heavy",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Ahmed Zaman",
+    "course": "CS330",
+    "text": "Quality: 5.0/5\nDifficulty: 3/5\nGrade: B\n\nStudent Feedback:\nCourse is difficult but structured in a way that supports understanding. Students benefit from attending lectures regularly and completing weekly assignments.\n\nTags:\nLecture heavy, Test heavy",
+    "source": "zaman_cs330.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS112",
+    "text": "Professor: Yutao Zhong  \nCourse: CS112  \nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Caring, Beginner Friendly, Accessible Outside Class, Helpful Examples  \n\nStudent Feedback:\n\nStudents frequently describe Professor Zhong as caring, patient, and supportive, particularly for students with little or no prior programming experience. Many reviews mention that she provides numerous examples during lectures and is willing to answer questions both during and outside of class.\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Lecture Heavy, Monotone Lectures, Reading Heavy  \n\nStudent Feedback:\n\nThe most common criticism concerns lecture delivery. Many students describe lectures as dry, repetitive, or boring. Several reviews note that lecture material often overlaps heavily with textbook readings and online learning materials.\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Lots of Homework, Heavy Workload, Time Management Required  \n\nStudent Feedback:\n\nStudents consistently report a substantial workload throughout the semester. Projects, labs, homework, and online readings require significant time commitments. Students strongly recommend starting projects early and avoiding procrastination.\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Project Heavy, Time Consuming, Hands-On Learning  \n\nStudent Feedback:\n\nProjects are the most frequently discussed aspect of the course. Students report that projects require many hours to complete, with final projects being the most difficult. However, they are also seen as effective for reinforcing programming concepts. Success depends heavily on starting early.\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Clear Grading Criteria, Extra Credit, Fair Exams  \n\nStudent Feedback:\n\nStudents generally describe grading as fair and transparent. Exams are considered manageable with preparation, and practice questions often align closely with assessments. Extra credit opportunities are also frequently mentioned.\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Beginner Friendly, Office Hours Helpful, Steep Learning Curve  \n\nStudent Feedback:\n\nFor beginners, the course can feel overwhelming at first due to a steep learning curve. Office hours are highly recommended. Students with prior programming experience find the course easier but still time-consuming.\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Caring, Helpful, Supportive Instructor  \n\nFrequently mentioned strengths include a caring instructor, helpful feedback, accessibility outside class, and strong support for beginners. Students often describe Professor Zhong as one of the best CS112 instructors.\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Heavy Workload, Boring Lectures, Fast Difficulty Increase  \n\nCommon concerns include boring lectures, heavy workload, and a noticeable increase in difficulty after the first few weeks. Some students also mention communication issues and time-consuming assignments.\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Time Management, Consistency Required, Project Success Strategy  \n\nStudent Feedback:\n\nStudents consistently emphasize success strategies such as starting projects early, completing readings regularly, attending office hours, and practicing coding outside of class. Time management is repeatedly highlighted as essential.\n\nReview:\nRating: 4.2/5  \nDifficulty: 3/5  \nTags: Positive Overall, Recommended, Intro CS Course  \n\nStudent Feedback:\n\nOverall sentiment is strongly positive. Despite workload and lecture criticism, students recommend the course for beginners due to strong support, fairness, and structured introduction to programming concepts.",
+    "source": "zhong_cs112.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Professor: Yutao Zhong\nCourse: CS310\nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 5/5\nDifficulty: 4/5\nGrade Received: A+\n\nStudent Feedback:\n\nProfessor Zhong is kind and approachable. CS310 projects are somewhat difficult overall, but her instructions are clear. Exams are slightly tricky but fair. Students note that the class is not easy despite her supportive teaching style.\n\nTags:\nCaring, Clear Grading Criteria, Fair Exams, Project Heavy",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 5/5\nDifficulty: 4/5\nGrade Received: Not Sure\n\nStudent Feedback:\n\nCS310 has a similar structure across professors. Projects are the main difficulty, while exams effectively test understanding. Grading criteria are clear and well-defined.\n\nTags:\nClear Grading Criteria, Project Heavy, Exam Focused",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 5/5\nDifficulty: 3/5\nGrade Received: B\n\nStudent Feedback:\n\nAttendance quizzes contribute a small portion of the grade. Projects are well-documented with clear expectations. Professor Zhong is described as very kind and organized.\n\nTags:\nParticipation Matters, Clear Instructions, Organized",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 5/5\nDifficulty: 3/5\nGrade Received: A+\n\nStudent Feedback:\n\nLectures are helpful and exams are straightforward. Weekly quizzes provide practice and some extra credit opportunities. Overall a very solid professor.\n\nTags:\nExtra Credit, Clear Grading Criteria, Helpful Lectures",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 5/5\nDifficulty: 1/5\nGrade Received: A+\n\nStudent Feedback:\n\nOne of the best CS professors at GMU. Material is well-explained and easy to follow if you attend lectures or review slides.\n\nTags:\nAmazing Lectures, Respected, Clear Explanations",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 5/5\nDifficulty: 3/5\nGrade Received: B+\n\n\nStudent Feedback:\n\nProfessor Zhong is very accessible outside class and responds quickly on Piazza and email. Students feel she genuinely cares about student success.\n\nTags:\nAccessible Outside Class, Caring, Responsive",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 5/5\nDifficulty: 2/5\nGrade Received: A+\n\n\nStudent Feedback:\n\nProjects are clearly structured with detailed rubrics. Exams are fair and sometimes allow cheat sheets. Students are advised to allocate enough time for Projects 3 and 4.\n\nTags:\nClear Rubrics, Fair Exams, Project Heavy",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 5/5\nDifficulty: 3/5\nGrade Received: A\n\nAttendance Required: Not Mandatory\n\nStudent Feedback:\n\nExtra credit opportunities and straightforward exams make the course manageable. Professor Zhong is highly recommended.\n\nTags:\nExtra Credit, Fair Exams, Recommended",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 5/5\nDifficulty: 3/5\nGrade Received: A\n\nStudent Feedback:\n\nStudents strongly recommend starting Project 3 early due to its increased difficulty compared to earlier assignments.\n\nTags:\nProject Heavy, Time Management Important",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS310",
+    "text": "Course: CS310\n\nRating: 4/5\nDifficulty: 3/5\nGrade Received: A\n\nAttendance Required: Not Mandatory\n\nStudent Feedback:\n\nLectures are somewhat dry but informative. Slides are well prepared and help students succeed in exams and projects.\n\nTags:\nLecture Heavy, Clear Slides",
+    "source": "zhong_cs310.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Professor: Yutao Zhong\nCourse: CS367\nDepartment: Computer Science\nUniversity: George Mason University\nSource: Rate My Professors\nDocument Type: Student Reviews",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: A-\nRating: 4.0/5\nDifficulty: 3/5\n\nReview:\nLectures are a bit dry, but quizzes are easy if you pay attention. Midterm and final are similar to practice problems and study guides. Projects are the hardest part but come with clear instructions and enough time.\n\nTags:\nClear grading criteria, Helpful, Project Heavy",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: A\nRating: 5.0/5\nDifficulty: 2/5\n\nReview:\nClass was very well organized with clear grading criteria and schedules. Attendance is handled through PollEV and is manageable. Study guides are very helpful and exams are fair.\n\nTags:\nExtra Credit, Clear grading criteria, Accessible outside class",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: B+\nRating: 5.0/5\nDifficulty: 4/5\n\nReview:\nCS367 is difficult, but the professor provides all necessary materials such as slides, videos, and recitation solutions. Lectures are somewhat dry but helpful for success if attended.\n\nTags:\nParticipation matters, Clear grading criteria, Gives good feedback",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: A\nRating: 5.0/5\nDifficulty: 3/5\n\nReview:\nSlides are some of the best in the CS program. Lectures are decent, though not always necessary. Exams and projects are very fair and aligned with course material.\n\nTags:\nAmazing lectures, Clear grading criteria, Lecture heavy",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: A\nRating: 5.0/5\nDifficulty: 3/5\n\nReview:\nLectures are boring but projects, recitations, and quizzes make up for it. Material is well structured and accessible.\n\nTags:\nAccessible outside class, Helpful",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: A\nRating: 5.0/5\nDifficulty: 3/5\n\nReview:\nProfessor explains concepts well and has interactive lectures. Projects are well designed and support learning effectively.\n\nTags:\nClear grading criteria, Helpful",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: B\nRating: 5.0/5\nDifficulty: 2/5\n\nReview:\nVery helpful for beginners. Slides and recitations make the material easier to understand. Exams are fair and follow study guides closely.\n\nTags:\nExtra credit, Caring, Accessible outside class",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: A\nRating: 4.0/5\nDifficulty: 2/5\n\nReview:\nProjects are shared across sections. Lectures are somewhat dry but the professor explains concepts clearly when asked.\n\nTags:\nCaring, Respected, Graded by few things",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: A\nRating: 4.0/5\nDifficulty: 4/5\n\nReview:\nAbove average professor. Clear grading and well-paced explanations. Some formatting issues with slides but overall solid course structure.\n\nTags:\nClear grading criteria, Respected, Lecture heavy",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: A+\nRating: 4.0/5\nDifficulty: 2/5\n\nReview:\nLectures are good but recitation videos align better with quizzes. Exams are easy with preparation. Projects can be long so start early.\n\nTags:\nAmazing lectures, Caring, Gives good feedback",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: B+\nRating: 3.0/5\nDifficulty: 4/5\n\nReview:\nNot a bad professor but others may be better. Lectures are boring but expectations are fair. Success depends on effort.\n\nTags:\nAccessible outside class, Clear grading criteria, Lecture heavy",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: B+\nRating: 5.0/5\nDifficulty: 3/5\n\nReview:\nVery fair exams and projects. Lectures are solid and helpful for students who attend regularly.\n\nTags:\nClear grading criteria, Lecture heavy, Caring",
+    "source": "zhong_cs367.txt"
+  },
+  {
+    "professor": "Yutao Zhong",
+    "course": "CS367",
+    "text": "Grade: N/A\nRating: 5.0/5\nDifficulty: 3/5\n\nReview:\nExcellent professor with strong understanding of material. Very patient and well-liked by students.\n\nTags:\nCaring, Respected, Helpful",
+    "source": "zhong_cs367.txt"
+  }
+]
